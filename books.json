@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Power of Your Mind",
+        "author": "Chris Oyakhilome",
+        "year": 2018,
+        "id": 1
+    },
+    {
+        "title": "47 Laws of Power",
+        "author": "Robert Greene",
+        "year": 2010,
+        "id": 2
+    },
+    {
+        "title": "Shattered Dreams",
+        "author": "Benson Omonode",
+        "year": 2000,
+        "id": 3
+    },
+    {
+        "title": "Introduction to Programming",
+        "author": "Oyie Felix",
+        "year": 2020
+    },
+    {
+        "title": "Things fall apart",
+        "author": "Chinua Achebe",
+        "year": 2000
+    }
+]
